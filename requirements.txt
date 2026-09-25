@@ -1,4 +1,4 @@
 aiohttp
-argparse
-argparse
-threading
+aiohttp-socks
+certifi
+cryptography

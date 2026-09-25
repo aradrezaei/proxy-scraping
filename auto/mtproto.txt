@@ -1,0 +1,9 @@
+# Public MTProto proxies. Lines starting with # are ignored.
+# ip:port:secret and tg://proxy links are both accepted.
+https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt
+https://raw.githubusercontent.com/hookzof/socks5_list/master/tg/mtproto.json
+https://raw.githubusercontent.com/Argh94/Proxy-List/main/mtproto.txt
+https://raw.githubusercontent.com/soroushmirzaei/telegram-proxies-collector/main/proxies
+https://raw.githubusercontent.com/MhdiTaheri/ProxyCollector/main/proxy.txt
+https://raw.githubusercontent.com/MrPooyaX/proxy-list/main/mtproto.txt
+https://mtpro.xyz/api/?type=mtproto
