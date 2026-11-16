@@ -1,0 +1,4 @@
+# Small lists that actually contain live configs. One URL per line.
+https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity.txt

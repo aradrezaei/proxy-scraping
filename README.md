@@ -17,3 +17,15 @@ python3 dd.py
 
 Results are appended to `out/http.txt`, `out/socks4.txt`, `out/socks5.txt`,
 and `out/mtproto.txt` (`tg://proxy?...` links).
+
+## V2Ray configs
+
+Public subscription URLs live in `auto/v2ray.txt`. The checker downloads Xray
+once, then saves a link only if traffic through it leaves this machine.
+
+```
+python3 vv.py
+```
+
+Working links go to `out/v2ray.txt`. `out/v2ray-sub.txt` is the same list as a
+base64 subscription.
